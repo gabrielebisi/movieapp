@@ -1,0 +1,30 @@
+// chiamata con ricerca (parametro s) e terminator solo per la prima pagina (primi 10 risultati)
+GET http://www.omdbapi.com/?apikey=78c925e7&s=terminator HTTP/1.1
+
+###
+
+// anche page 2
+GET http://www.omdbapi.com/?apikey=78c925e7&s=terminator&page=2 HTTP/1.1
+
+###
+//solo per type movie
+GET http://www.omdbapi.com/?apikey=78c925e7&s=terminator&type=movie HTTP/1.1
+
+###
+
+///solo per series
+GET http://www.omdbapi.com/?apikey=78c925e7&s=terminator&type=series HTTP/1.1
+
+
+###
+/// solo per singolo movie (usiamo i)
+GET http://www.omdbapi.com/?apikey=78c925e7&i=tt0103064
+
+
+###
+GET http://www.omdbapi.com/?apikey=78c925e7&t=confessions_of_a_shopaholic HTTP/1.1
+
+###
+GET http://www.omdbapi.com/?apikey=78c925e7&s=terminator HTTP/1.1
+
+
