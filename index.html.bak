@@ -368,7 +368,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
                                     <!-- Portfolio Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">I LOVE SHOPPING</h2>
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Sono nato a Milano</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
@@ -378,7 +378,7 @@
                                     <!-- Portfolio Modal - Image-->
                                     <img class="img-fluid rounded mb-5" src="assets/img/portfolio/ils.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">TRAMA</p>
+                                    <p class="mb-4">Sono nato a Milano il 7 gennaio 2002, ho sempre vissuto a Milano.</p>
                                     <button class="btn btn-primary" href="#!" data-bs-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
                                         Chiudi
@@ -400,7 +400,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
                                     <!-- Portfolio Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">TITANIC</h2>
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Origini</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
@@ -410,7 +410,7 @@
                                     <!-- Portfolio Modal - Image-->
                                     <img class="img-fluid rounded mb-5" src="assets/img/portfolio/titanic.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">TRAMA</p>
+                                    <p class="mb-4">Nonostante la quasi totalità delle mie origini sia lombarda, ho anche delle origini del Friuli, più precisamente di Carnia in Provincia di Udine, paese di nascita di mio nonno materno</p>
                                     <button class="btn btn-primary" href="#!" data-bs-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
                                         Chiudi
@@ -432,7 +432,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
                                     <!-- Portfolio Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">INCEPTION</h2>
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">STUDI</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
@@ -442,7 +442,7 @@
                                     <!-- Portfolio Modal - Image-->
                                     <img class="img-fluid rounded mb-5" src="assets/img/portfolio/inception.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">TRAMA</p>
+                                    <p class="mb-4">Ho studiato per 5 anni all'Istituto Superiore Statale Fabio Besta di Milano, diplomandomi in Sistemi Informativi Aziendali il 22 giugno 2021 con 95/100.</p>
                                     <button class="btn btn-primary" href="#!" data-bs-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
                                         Chiudi
@@ -464,7 +464,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
                                     <!-- Portfolio Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">EXCUSE ME, I LOVE U</h2>
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">CONOSCENZE</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
@@ -474,7 +474,7 @@
                                     <!-- Portfolio Modal - Image-->
                                     <img class="img-fluid rounded mb-5" src="assets/img/portfolio/excuse.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">TRAMA</p>
+                                    <p class="mb-4">Durante gli studi ho sperimentato vari linguaggi tra cui HTML, C++, PHP, SQL e un po' di C.</p>
                                     <button class="btn btn-primary" href="#!" data-bs-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
                                         Chiudi
@@ -496,7 +496,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
                                     <!-- Portfolio Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">CALL ME BY YOUR NAME</h2>
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">GUSTI MUSICALI</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
@@ -506,7 +506,7 @@
                                     <!-- Portfolio Modal - Image-->
                                     <img class="img-fluid rounded mb-5" src="assets/img/portfolio/call.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">TRAMA</p>
+                                    <p class="mb-4">Il genere musicale che preferisco è quello " pop / r & b " internazionale, la mia artista preferita è Ariana Grande. </p>
                                     <button class="btn btn-primary" href="#!" data-bs-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
                                         Chiudi
@@ -528,7 +528,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
                                     <!-- Portfolio Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">A STAR IS BORN</h2>
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Percorso ITS</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
@@ -538,7 +538,7 @@
                                     <!-- Portfolio Modal - Image-->
                                     <img class="img-fluid rounded mb-5" src="assets/img/portfolio/star.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">TRAMA</p>
+                                    <p class="mb-4">Ho iniziato il 26 ottobre 2021 il percorso ITS Fullstack Developer presso ITS Tech Talent Factory a Turro, in modo da essere preparato sia in Back-End e Front-End (che preferisco).</p>
                                     <button class="btn btn-primary" href="#!" data-bs-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
                                         Chiudi
