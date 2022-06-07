@@ -65,8 +65,6 @@
 		
 		
 		
-		
-		
         <!-- Masthead-->
         <header class="masthead bg-primary text-white text-center">
             <div class="container d-flex align-items-center flex-column"> 
@@ -80,11 +78,15 @@
             </div>
         </header>
 		
-		
-		
-		
-		
-        <!-- Portfolio Section-->
+
+
+
+
+
+
+
+
+       <!-- Portfolio Section-->
         <section class="page-section portfolio" id="portfolio">
             <div class="container">
                 <!-- Portfolio Section Heading-->
@@ -552,12 +554,41 @@
         </div>
         <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
-        <!-- Core theme JS-->
         <script src="js/scripts.js"></script>
-        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
-        <!-- * *                               SB Forms JS                               * *-->
-        <!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
-        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
         <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
+    
+    
+    
+    
+    
+    <script type="module">
+
+        const ep_pool = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX"];
+        const serie_pool = ["boba", "obi-wan", "mandalorian", "the%20clone%20wars"];
+
+        let type = "movie";
+
+        import {movieSearch, serieSearch, carouselSearch, videogameSearch} from "/js/scripts.js";
+        
+        let title = "star%20wars";
+        carouselSearch(title);
+
+        for(let i=0; i<ep_pool.lenght; i++){
+            title = `star%20wars:%20episode%20%${ep_pool[i]}`;
+            movieSearch(title, type, i);
+        }
+
+        type = "series"
+        for(let i=0; i<serie_pool.lenght; i++){
+            title = `${serie_pool[i]}`;
+            serieSearch(title,type,i);
+        }
+
+        title = "star%20wars";
+        videogameSearch(title)
+
+    </script>
+    
+    
     </body>
 </html>
