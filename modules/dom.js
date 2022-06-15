@@ -5,8 +5,8 @@ const URL_base = `https://www.omdbapi.com/?apikey=${apikey}&`;
 /* Film */
 export const movieSearch = (t, type,indice) => {
     let url = `${URL_base}t=${t}&type=${type}`;
-    if(indice == 3 && url.includes("star%20wars")){
-        url = `${URL_base}t=star%20wars&type=${type}`;
+    if(indice == 3 && url.includes("titanic")){
+        url = `${URL_base}t=titanic&type=${type}`;
     }
     fetch(url)
         .then(response => response.json())

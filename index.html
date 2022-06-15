@@ -423,6 +423,11 @@
                                     <button class="btn btn-primary" onclick="window.location.href='https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg';" data-bs-dismiss="modal">
                                         Locandina
                                      </button>
+
+
+
+
+
                                 </div>
                             </div>
                         </div>
@@ -575,37 +580,6 @@
         <script src="js/scripts.js"></script>
         <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
     
-    
-    
-    
-    
-    <script type="module">
-
-        const ep_pool = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX"];
-        const serie_pool = ["boba", "obi-wan", "mandalorian", "the%20clone%20wars"];
-
-        let type = "movie";
-
-        import {movieSearch, serieSearch, carouselSearch, videogameSearch} from "/js/scripts.js";
-        
-        let title = "star%20wars";
-        carouselSearch(title);
-
-        for(let i=0; i<ep_pool.lenght; i++){
-            title = `star%20wars:%20episode%20%${ep_pool[i]}`;
-            movieSearch(title, type, i);
-        }
-
-        type = "series"
-        for(let i=0; i<serie_pool.lenght; i++){
-            title = `${serie_pool[i]}`;
-            serieSearch(title,type,i);
-        }
-
-        title = "star%20wars";
-        videogameSearch(title)
-
-    </script>
     
     
     </body>
